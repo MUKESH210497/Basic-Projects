@@ -10,3 +10,8 @@ Automates monthly sales reporting using Python, Pandas, and OpenPyXL. It validat
 **Run:** See the [project README](Excel-Report-Automation/README.md).
 
 All included example transaction data is synthetic.
+
+### [CSV-to-SQL ETL Pipeline](CSV-to-SQL-ETL-Pipeline/)
+A Python, Pandas, and SQLite data engineering project that validates synthetic sales transactions, removes duplicate and invalid records, loads data with repeatable upserts, and provides SQL analytics queries.
+
+**Run:** See the [ETL project README](CSV-to-SQL-ETL-Pipeline/README.md).
