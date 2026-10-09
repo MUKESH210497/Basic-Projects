@@ -1,0 +1,6 @@
+order_id,date,region,product,quantity,unit_price
+A006,2026-02-01,South,Mouse,4,500
+A007,2026-02-03,West,Monitor,2,11000
+A008,2026-02-05,North,Laptop Stand,3,950
+A003,2026-01-07,West,Mouse,5,500
+A009,invalid-date,East,Keyboard,2,1200
