@@ -1,0 +1,6 @@
+id,category,priority,assigned_to,status
+T001,Salesforce,High,Priya,Assigned
+T004,Network,High,Unassigned,Manual review
+T002,ETL,Medium,Priya,Assigned
+T003,Data,Low,Rahul,Assigned
+T005,Salesforce,Low,Anita,Assigned
